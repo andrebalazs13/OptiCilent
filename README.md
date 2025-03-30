@@ -1,0 +1,125 @@
+OptiClient is a modpack that aims to optimize the performance of the Minecraft client while trying to ensure support for OptiFine features.
+
+
+#### Unfortunately, it has not yet been released for 1.21.5, as there are mods that have not been updated yet, but it will be available soon.
+
+<details>
+<summary>FPS test</summary>
+
+## FPS with vanilla Minecraft:
+
+![40 fps](https://cdn.modrinth.com/data/cached_images/7fcba9bab748056ab0d82cc7a1a4d939439c2013.png)
+
+## FPS with OptiFine:
+![72 FPS](https://cdn.modrinth.com/data/cached_images/80e4a58e18a60416cb4d12d41169c9a740812764.png)
+
+## FPS with OptiCilent:
+
+![120 FPS](https://cdn.modrinth.com/data/cached_images/52146e73e8b94bdf6c96e0e0199a32a5c28f51cd.png)
+
+| Vanilla           | OptiFine               | OptiCilent             |
+|---------------------|:---------------------:|---------------------:|
+| 40 FPS           | 72             | 120 FPS            |
+
+
+Hardware: CPU: Intel Core I5 8400 2.80Ghz, RAM: 4gb DDR4 (48gb system ram), GPU: NVIDIA GeForce GT 710
+
+*FPS test is done on my very low-end computer. FPS may vary depending on hardware and graphics settings.
+
+</details>
+
+<details>
+<summary>Mod list</summary>
+  
+# Mod list:
+- [Appleskin](https://modrinth.com/mod/appleskin)
+- [Architectury API](https://modrinth.com/mod/architectury-api)
+- [BadOptimizations](https://modrinth.com/mod/badoptimizations)
+- [Better Mount HUD](https://modrinth.com/mod/better-mount-hud)
+- [Boat Item View](https://modrinth.com/mod/boat-item-view)
+- [CalcMod](https://modrinth.com/mod/calcmod)
+- [Chat Heads](https://modrinth.com/mod/chat-heads)
+- [Cloth Config API](https://modrinth.com/mod/cloth-config)
+- [Continuity](https://modrinth.com/mod/continuity)
+- [Crash Assistant](https://modrinth.com/mod/crash-assistant)
+- [Cull Leaves](https://modrinth.com/mod/cull-leaves)
+- [Debugify](https://modrinth.com/mod/debugify)
+- [Distant Horizons](https://modrinth.com/mod/distanthorizons)
+- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
+- [e4mc](https://modrinth.com/mod/e4mc)
+- [[EMF] Entity Model Features](https://modrinth.com/mod/entity-model-features)
+- [[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
+- [Entity Culling](https://modrinth.com/mod/entityculling)
+- [Entity View Distance](https://modrinth.com/mod/entity-view-distance)
+- [Fabric API](https://modrinth.com/mod/fabric-api)
+- [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
+- [Fast IP Ping](https://modrinth.com/mod/fast-ip-ping)
+- [FerriteCore](https://modrinth.com/mod/ferrite-core)
+- [FPS - Display](https://modrinth.com/mod/fpsdisplay)
+- [GpuTape](https://modrinth.com/mod/gputape)
+- [Held Item Info](https://modrinth.com/mod/held-item-info)
+- [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
+- [Iris Shaders](https://modrinth.com/mod/iris)
+- [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
+- [Language Reload](https://modrinth.com/mod/language-reload)
+- [lazy-language-loader](https://modrinth.com/mod/lazy-language-loader)
+- [LibJF](https://modrinth.com/mod/libjf)
+- [Lithium](https://modrinth.com/mod/lithium)
+- [MidnightLib](https://modrinth.com/mod/midnightlib)
+- [MixinTrace](https://modrinth.com/mod/mixintrace)
+- [Model Gap Fix](https://modrinth.com/mod/modelfix)
+- [ModernFix](https://modrinth.com/mod/modernfix)
+- [Mod Menu](https://modrinth.com/mod/modmenu)
+- [More Chat History](https://modrinth.com/mod/morechathistory)
+- [More Culling](https://modrinth.com/mod/moreculling)
+- [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
+- [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
+- [OptiGUI](https://modrinth.com/mod/optigui)
+- [Puzzle](https://modrinth.com/mod/puzzle)
+- [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
+- [ReplayMod](https://modrinth.com/mod/replaymod)
+- [Server Resourcepack Checker](https://modrinth.com/mod/server-resource-pack-checker)
+- [Roughly Enough Items (REI)](https://modrinth.com/mod/rei)
+- [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip)
+- [Sodium Extra](https://modrinth.com/mod/sodium-extra)
+- [Sodium Extra Information](https://modrinth.com/mod/sodium-extra-information)
+- [Sodium](https://modrinth.com/mod/sodium)
+- [Super Fast Math](https://modrinth.com/mod/super-fast-math)
+- [ViaFabricPlus](https://modrinth.com/mod/viafabricplus)
+- [Wavey Capes](https://modrinth.com/mod/wavey-capes)
+- [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
+- [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
+- [YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl)
+- [Zoomify](https://modrinth.com/mod/zoomify)
+- [Very Many Players (Fabric)](https://modrinth.com/mod/vmp-fabric)
+- [Noisium](https://modrinth.com/mod/noisium)
+- [Chunky](https://modrinth.com/plugin/chunky/version/1.2.217)
+- [Better Beds](https://modrinth.com/mod/better-beds)
+- [Skip Transitions](https://modrinth.com/mod/skip-transitions)
+- [RenderScale](https://modrinth.com/mod/renderscale)
+- [Particle Core](https://modrinth.com/mod/particle-core)
+- [Fast Items](https://modrinth.com/mod/fast-items)
+- [Controlify](https://modrinth.com/mod/controlify)
+- [Enhanced Block Entities](https://modrinth.com/mod/ebe)
+- [Noxesium](https://modrinth.com/mod/noxesium)
+- [Smooth Scrolling](https://modrinth.com/mod/smooth-scroll?)
+- [Sodium Options Mod Compat](https://modrinth.com/mod/sodium-options-mod-compat)
+- [Palladium](https://modrinth.com/mod/mpalladium)
+- [NoDynamicFps](https://modrinth.com/mod/nodynamicfps)
+- [FastBoot](https://www.curseforge.com/minecraft/mc-mods/fastboot)
+- [ToadLib](https://modrinth.com/mod/toadlib?version=1.21.4&loader=fabric)
+- [Fzzy Config](https://modrinth.com/mod/fzzy-config)
+- [TxniLib](https://modrinth.com/mod/txnilib)
+- [Sodium Options API](https://modrinth.com/mod/sodium-options-api)
+- [Cool Elytra Roll](https://modrinth.com/mod/cool-elytra-roll)
+- [Variants-CIT](https://modrinth.com/mod/variants-cit)
+
+# Texture packs:
+- [Redstone Tweaks](https://modrinth.com/resourcepack/redstone-tweaks)
+- [Outlined Ores](https://modrinth.com/resourcepack/ore-outlines)
+- [Low On Fire](https://modrinth.com/resourcepack/low-on-fire)
+- [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode)
+#Datapacks:
+- [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)
+
+</details>
