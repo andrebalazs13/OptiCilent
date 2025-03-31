@@ -1,5 +1,8 @@
+![LOGO](https://github.com/andrebalazs13/OptiCilent/blob/main/LOGO.png)
+
 OptiClient is a modpack that aims to optimize the performance of the Minecraft client while trying to ensure support for OptiFine features.
 
+It is currently only available on [modrinth](https://modrinth.com/modpack/opticilent), but will also be available on curseforge.
 
 #### Unfortunately, it has not yet been released for 1.21.5, as there are mods that have not been updated yet, but it will be available soon.
 
@@ -31,7 +34,7 @@ Hardware: CPU: Intel Core I5 8400 2.80Ghz, RAM: 4gb DDR4 (48gb system ram), GPU:
 <details>
 <summary>Mod list</summary>
   
-# Mod list:
+## Mod list(modrinth.com):
 - [Appleskin](https://modrinth.com/mod/appleskin)
 - [Architectury API](https://modrinth.com/mod/architectury-api)
 - [BadOptimizations](https://modrinth.com/mod/badoptimizations)
