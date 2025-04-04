@@ -22,7 +22,7 @@ It is currently only available on [modrinth](https://modrinth.com/modpack/optici
 
 | Vanilla           | OptiFine               | OptiCilent             |
 |---------------------|:---------------------:|---------------------:|
-| 40 FPS           | 72             | 120 FPS            |
+| 40 FPS           | 72 FPS             | 120 FPS            |
 
 
 Hardware: CPU: Intel Core I5 8400 2.80Ghz, RAM: 4gb DDR4 (48gb system ram), GPU: NVIDIA GeForce GT 710
