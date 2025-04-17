@@ -1,40 +1,47 @@
 ![LOGO](https://github.com/andrebalazs13/OptiCilent/blob/main/LOGO.png)
 
-OptiClient is a modpack that aims to optimize the performance of the Minecraft client while trying to ensure support for OptiFine features.
+# 🔥The fastest Minecraft optimization modpack!🔥
 
-It is currently only available on [modrinth](https://modrinth.com/modpack/opticilent), but will also be available on curseforge.
+## 🚀This is a fabric based modpack that supports all OptiFine features. If you switch from OptiFine to this one, you will notice that the FPS is much higher and it supports your favorite mods!🚀
+
+➕There are also some extra features compared to optifine, such as minimap, world map, chat heads, controller support, and many more! All of them can be disabled depending on what you need.
+
+⚙️You can change settings the mods or disable the mods by clicking on the mods button and searching for the mod you want with the search bar, then clicking on chage settings.
+
+
+### If you like the modpack, please support it by leaving feedback on the project's github page. If you send also a picture, it may be included in the gallery!
+
 
 #### Unfortunately, it has not yet been released for 1.21.5, as there are mods that have not been updated yet, but it will be available soon.
 
-<details>
-<summary>FPS test</summary>
+## ⚡FPS test
 
-## FPS with vanilla Minecraft:
+###  FPS with vanilla Minecraft:
 
 ![40 fps](https://cdn.modrinth.com/data/cached_images/7fcba9bab748056ab0d82cc7a1a4d939439c2013.png)
 
-## FPS with OptiFine:
+### FPS with OptiFine:
 ![72 FPS](https://cdn.modrinth.com/data/cached_images/80e4a58e18a60416cb4d12d41169c9a740812764.png)
 
-## FPS with OptiCilent:
+### FPS with OptiCilent:
 
 ![120 FPS](https://cdn.modrinth.com/data/cached_images/52146e73e8b94bdf6c96e0e0199a32a5c28f51cd.png)
 
 | Vanilla           | OptiFine               | OptiCilent             |
 |---------------------|:---------------------:|---------------------:|
-| 40 FPS           | 72 FPS             | 120 FPS            |
+| 1-40 FPS           | 49-72 FPS            | 90-240 FPS            |
 
 
 Hardware: CPU: Intel Core I5 8400 2.80Ghz, RAM: 4gb DDR4 (48gb system ram), GPU: NVIDIA GeForce GT 710
 
-*FPS test is done on my very low-end computer. FPS may vary depending on hardware and graphics settings.
+*the smallest number indicates the lowest and the largest number indicates the highest FPS
 
-</details>
+**FPS test is done on my very low-end computer. FPS may vary depending on hardware and graphics settings.
 
 <details>
-<summary>Mod list</summary>
+<summary>⚙️ List of mods</summary>
   
-## Mod list(modrinth.com):
+## Mods:
 - [Appleskin](https://modrinth.com/mod/appleskin)
 - [Architectury API](https://modrinth.com/mod/architectury-api)
 - [BadOptimizations](https://modrinth.com/mod/badoptimizations)
@@ -115,13 +122,17 @@ Hardware: CPU: Intel Core I5 8400 2.80Ghz, RAM: 4gb DDR4 (48gb system ram), GPU:
 - [Sodium Options API](https://modrinth.com/mod/sodium-options-api)
 - [Cool Elytra Roll](https://modrinth.com/mod/cool-elytra-roll)
 - [Variants-CIT](https://modrinth.com/mod/variants-cit)
+- [Text Placeholder API](https://modrinth.com/mod/placeholder-api)
+- [Anvian's Lib](https://modrinth.com/mod/anvians-lib)
+- [Forge Config API port](https://modrinth.com/mod/forge-config-api-port)
 
-# Texture packs:
+## Texture packs:
 - [Redstone Tweaks](https://modrinth.com/resourcepack/redstone-tweaks)
 - [Outlined Ores](https://modrinth.com/resourcepack/ore-outlines)
 - [Low On Fire](https://modrinth.com/resourcepack/low-on-fire)
 - [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode)
-#Datapacks:
+  
+## Datapacks:
 - [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)
 
 </details>
