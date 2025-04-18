@@ -1,0 +1,13 @@
+name = "Fast Items"
+filename = "fastitems-fabric-1.1.0-fabric+1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/H80QSt2v/versions/WCFNLcvq/fastitems-fabric-1.1.0-fabric%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "512685272096aae7cf3ecdec1080f30626d6ac1d03cfde0ea8250a5a1efccf77ed68447f59ea934c35e573e6bbe1da7f0395cf92ac4a2e0157622bf30f56f96a"
+
+[update]
+[update.modrinth]
+mod-id = "H80QSt2v"
+version = "WCFNLcvq"

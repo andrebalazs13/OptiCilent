@@ -1,0 +1,13 @@
+name = "NoDynamicFps"
+filename = "NoDynamicFps-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/u9VSIrxO/versions/ncxKtSZv/NoDynamicFps-1.0.0.jar"
+hash-format = "sha512"
+hash = "65dd3322dfdd97e6dfa7420c005b4d96405fbaf9cb8d212e711b381074457046061b9205ca6d267e7d721e06f529a7a85ac04bbd72f04e14733856ac096b6714"
+
+[update]
+[update.modrinth]
+mod-id = "u9VSIrxO"
+version = "ncxKtSZv"
