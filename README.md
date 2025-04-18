@@ -1,4 +1,4 @@
-![LOGO](https://github.com/andrebalazs13/OptiCilent/blob/main/LOGO.png)
+![LOGO](https://github.com/andrebalazs13/OptiCilent/blob/main/logo/OptiCilent_LOGO_v2.png)
 
 # 🔥The fastest Minecraft optimization modpack!🔥
 
