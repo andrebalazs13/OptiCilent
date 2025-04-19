@@ -1,0 +1,13 @@
+name = "Bedrodium Refabricated"
+filename = "bedrerodium-0.2.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zNuzb72d/versions/lO4YBmsP/bedrerodium-0.2.4.jar"
+hash-format = "sha512"
+hash = "6ff87150aa9d90c0bdd5bd1010b45f9a1b764ac3ee9c82cdff2e03d5c00be0674318aedda54c9a8db368308c69d8c900ddb6c2818eb2cc1db445289f3bcbfafa"
+
+[update]
+[update.modrinth]
+mod-id = "zNuzb72d"
+version = "lO4YBmsP"
