@@ -2,17 +2,26 @@
 
 # 🔥The fastest Minecraft optimization modpack!🔥
 
-## 🚀This is a fabric based modpack that supports all OptiFine features. If you switch from OptiFine to this one, you will notice that the FPS is much higher and it supports your favorite mods!🚀
+## 🚀This is a fabric based modpack that supports the most OptiFine features. If you switch from OptiFine to this one, you will notice that the FPS is much higher and it supports your favorite mods!🚀
 
 ➕There are also some extra features compared to optifine, such as minimap, world map, chat heads, controller support, and many more! All of them can be disabled depending on what you need.
 
 ⚙️You can change settings the mods or disable the mods by clicking on the mods button and searching for the mod you want with the search bar, then clicking on chage settings.
 
+📜On paper it should be faster than [FO](https://modrinth.com/modpack/fabulously-optimized), but I don't know, if anyone has tested it, please report back on github or on the my Discord server.
 
-### If you like the modpack, please support it by leaving feedback on the project's github page. If you send also a picture, it may be included in the gallery!
+------------------------------------------------------------------------------------------------
 
+If you like the modpack, please support it by leaving feedback on the project's github page or on the Discord sever. If you send also a picture, it may be included in the gallery!
 
-#### Unfortunately, it has not yet been released for 1.21.5, as there are mods that have not been updated yet, but it will be available soon.
+#### Unfortunately, it has not yet been released for 1.21.5, as there are mods that have not been updated yet, and I can't do alpha/beta either because there's an API that hasn't been updated, so when a mod starts, it's missing a class because of the API, and it crashes.
+
+------------------------------------------------------------------------------------------------
+
+Anyone can join the development, just let us know on Github or on the Discord server! Whether it's testing the modpack or updating to a newer or an older version!
+
+------------------------------------------------------------------------------------------------
+
 
 ## ⚡FPS test
 
@@ -23,7 +32,7 @@
 ### FPS with OptiFine:
 ![72 FPS](https://cdn.modrinth.com/data/cached_images/80e4a58e18a60416cb4d12d41169c9a740812764.png)
 
-### FPS with OptiCilent:
+### FPS with OptiCilent: (v 1.1.0, There may have been an FPS increase since then compared to the latest version.)
 
 ![120 FPS](https://cdn.modrinth.com/data/cached_images/52146e73e8b94bdf6c96e0e0199a32a5c28f51cd.png)
 
@@ -125,6 +134,9 @@ Hardware: CPU: Intel Core I5 8400 2.80Ghz, RAM: 4gb DDR4 (48gb system ram), GPU:
 - [Text Placeholder API](https://modrinth.com/mod/placeholder-api)
 - [Anvian's Lib](https://modrinth.com/mod/anvians-lib)
 - [Forge Config API port](https://modrinth.com/mod/forge-config-api-port)
+- [Bedrodium Refabricated](https://modrinth.com/mod/bedrodium-refabricated)
+- [Reflex AntiLag](https://modrinth.com/mod/reflex-antilag)
+- [ThreatenGL](https://modrinth.com/mod/threatengl)
 
 ## Texture packs:
 - [Redstone Tweaks](https://modrinth.com/resourcepack/redstone-tweaks)
