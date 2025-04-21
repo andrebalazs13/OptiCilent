@@ -16,6 +16,8 @@ If you like the modpack, please support it by leaving feedback on the project's 
 
 #### Unfortunately, it has not yet been released for 1.21.5, as there are mods that have not been updated yet, and I can't do alpha/beta either because there's an API that hasn't been updated, so when a mod starts, it's missing a class because of the API, and it crashes.
 
+Currently, only version 1.1.0 is available on the github page.
+
 ------------------------------------------------------------------------------------------------
 
 Anyone can join the development, just let us know on Github or on the Discord server! Whether it's testing the modpack or updating to a newer or an older version!
@@ -136,14 +138,16 @@ Hardware: CPU: Intel Core I5 8400 2.80Ghz, RAM: 4gb DDR4 (48gb system ram), GPU:
 - [Forge Config API port](https://modrinth.com/mod/forge-config-api-port)
 - [Bedrodium Refabricated](https://modrinth.com/mod/bedrodium-refabricated)
 - [Reflex AntiLag](https://modrinth.com/mod/reflex-antilag)
-- [ThreatenGL](https://modrinth.com/mod/threatengl)
 
 ## Texture packs:
 - [Redstone Tweaks](https://modrinth.com/resourcepack/redstone-tweaks)
 - [Outlined Ores](https://modrinth.com/resourcepack/ore-outlines)
 - [Low On Fire](https://modrinth.com/resourcepack/low-on-fire)
 - [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode)
-  
+- [Axolotl Bucket Variants's Variants-CIT version](https://github.com/Estecka/mc-Axolotl-Bucket-Variants/releases/tag/pre2) ([original pack](https://modrinth.com/resourcepack/axolotl-bucket-variants))
+- [Even Better Enchants's Variants-CIT version](https://github.com/Estecka/mc-Variants-CIT/releases/tag/2.5.0+1.21.1) ([original pack](https://modrinth.com/resourcepack/even-better-enchants))
+
+</details>
 ## Datapacks:
 - [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)
 
