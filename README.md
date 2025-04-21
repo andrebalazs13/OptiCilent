@@ -148,7 +148,3 @@ Hardware: CPU: Intel Core I5 8400 2.80Ghz, RAM: 4gb DDR4 (48gb system ram), GPU:
 - [Even Better Enchants's Variants-CIT version](https://github.com/Estecka/mc-Variants-CIT/releases/tag/2.5.0+1.21.1) ([original pack](https://modrinth.com/resourcepack/even-better-enchants))
 
 </details>
-## Datapacks:
-- [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)
-
-</details>
