@@ -9,8 +9,6 @@ ATlauncher and the Modrinth app.
 These are currently supported because they are the only launchers that support the .mrpack format and the modrinth API. It can probably be installed with any other launcher that supports the modrinth API.
 
 <details>
-<summary>⬇️How to install</summary>
-<details>
 <summary>Modrinth app</summary>
   
 - 1.Open the modrinth app
@@ -64,5 +62,4 @@ These are currently supported because they are the only launchers that support t
  
 - 8.Play!
 
-</details>
 </details>
