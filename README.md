@@ -1,6 +1,8 @@
 ![LOGO](https://github.com/andrebalazs13/OptiCilent/blob/main/logo/OptiCilent_LOGO_v2.png)
 
-## The OptiClient is a modpack designed to replace OptiFine: higher FPS, lots of supported OptiFine features, and extras like minimap, world map, and free capes.
+# 🔥OptiClient: The ultimate minecraft optimization!🔥
+
+## ⚡The OptiClient is a modpack designed to replace OptiFine: higher FPS, lots of supported OptiFine features, and extras like minimap, world map, and free capes.
 
 # How to install
 
